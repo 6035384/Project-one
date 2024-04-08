@@ -1,5 +1,3 @@
-Create table manager
-create page git_location5
-create kotlin page
-create maryam_master_pagina
-create maryam_pagina
+create page webview
+create page dashboard
+create page login
